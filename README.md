@@ -25,13 +25,11 @@ Se trata de un reto abierto, donde el equipo podrá elegir el caso de uso y los 
 El repositorio contiene los siguientes archivos y carpetas:  
 
 ## Estructura del repositorio  
-
-```bash
-team-challenge-pipelines/  
-│── data/                # Datos utilizados para entrenamiento y prueba  
-│── notebooks/           # Notebooks de desarrollo y experimentación  
-│── models/              # Modelos generados y guardados  
-│── scripts/             # Scripts auxiliares para preprocesamiento y entrenamiento  
-│── README.md            # Documento con la descripción del proyecto  
-│── requirements.txt     # Dependencias necesarias para ejecutar el código  
+📂 team-challenge-pipelines/
+├── 📂 data/ - Datos utilizados para entrenamiento y prueba
+├── 📂 notebooks/ - Notebooks de desarrollo y experimentación
+├── 📂 models/ - Modelos generados y guardados
+├── 📂 scripts/ - Scripts auxiliares para preprocesamiento y entrenamiento
+├── 📄 README.md - Documento con la descripción del proyecto
+├── 📄 requirements.txt - Dependencias necesarias para ejecutar el código
 

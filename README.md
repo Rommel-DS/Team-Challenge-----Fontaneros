@@ -1,7 +1,6 @@
 # Team Challenge: Construcción de Pipelines con Scikit-learn
 
-## Nombre del grupo  
-## **Fontaneros**  
+## Nombre del grupo ## **Fontaneros**  
 
 ## Integrantes  
 - Rommel López  

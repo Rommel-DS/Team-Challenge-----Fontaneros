@@ -29,5 +29,4 @@ Se trata de un reto abierto, donde el equipo podrá elegir el caso de uso y los 
 - 📂 models/ - Modelos generados y guardados
 - 📂 scripts/ - Scripts auxiliares para preprocesamiento y entrenamiento
 - 📄 README.md - Documento con la descripción del proyecto
-- 📄 requirements.txt - Dependencias necesarias para ejecutar el código
 

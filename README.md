@@ -23,10 +23,8 @@ Se trata de un reto abierto, donde el equipo podrá elegir el caso de uso y los 
 - 
 
 ## Estructura del repositorio  
-- 📂 team-challenge-pipelines/
 - 📂 data/ - Datos utilizados para entrenamiento y prueba
 - 📂 notebooks/ - Notebooks de desarrollo y experimentación
 - 📂 models/ - Modelos generados y guardados
-- 📂 scripts/ - Scripts auxiliares para preprocesamiento y entrenamiento
 - 📄 README.md - Documento con la descripción del proyecto
 

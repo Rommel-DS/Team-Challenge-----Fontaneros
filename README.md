@@ -19,10 +19,8 @@ Se trata de un reto abierto, donde el equipo podrá elegir el caso de uso y los 
 - Aplicación de **Estimadores Supervisados y No Supervisados**  
 - Implementación de **OneHotEncoder** sin errores al manejar valores categóricos en `train` y `test`  
 - Uso de **validación cruzada** y explicación de la ventaja de los **Pipelines** en este proceso  
-- Aplicación de **GridSearchCV**  
-
-## Estructura del repositorio  
-El repositorio contiene los siguientes archivos y carpetas:  
+- Aplicación de **GridSearchCV**
+- 
 
 ## Estructura del repositorio  
 - 📂 team-challenge-pipelines/

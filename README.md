@@ -10,7 +10,7 @@
 - Guillermo Castillón  
 
 ## Descripción  
-Este notebook describe el **Team Challenge** dedicado a la práctica y construcción de **Pipelines de Scikit-learn**, que será presentado en clase dentro de dos sprints.
+Este notebook describe el **Team Challenge** dedicado a la práctica y construcción de **Pipelines de Scikit-learn**, que será presentado en clase.
 
 Se trata de un reto abierto, donde el equipo podrá elegir el caso de uso y los datos para entrenar y testear los **Pipelines**. Sin embargo, se valorará positivamente el cumplimiento de los siguientes puntos:  
 

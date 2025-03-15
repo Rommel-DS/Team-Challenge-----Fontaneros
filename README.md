@@ -21,15 +21,15 @@ Las siguientes dependencias son necesarias para ejecutar el proyecto:
 - `xgboost`
 - `sklearn` (incluyendo `pipeline`, `model_selection`, `ensemble`, entre otros)
 - `pickle` (para serialización de modelos)
-- `Toolbox` (verificar si es una librería externa o módulo personalizado)
+- `Toolbox`
 
 ## 📥 Instalación
 
 Clona este repositorio y accede a la carpeta del proyecto:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/Rommel-DS/Team-Challenge-----Fontaneros.git
+cd Team-Challenge-----Fontaneros
 ```
 
 ## ⚡ Uso

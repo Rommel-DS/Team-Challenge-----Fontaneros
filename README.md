@@ -13,11 +13,15 @@ Este repositorio contiene un conjunto de **pipelines** para procesamiento de dat
 
 ## 📌 Requisitos
 
-Antes de ejecutar el proyecto, asegúrate de tener instaladas las siguientes dependencias:
+Las siguientes dependencias son necesarias para ejecutar el proyecto:
 
-```bash
-pip install -r requirements.txt
-```
+- `numpy`
+- `pandas`
+- `lightgbm`
+- `xgboost`
+- `sklearn` (incluyendo `pipeline`, `model_selection`, `ensemble`, entre otros)
+- `pickle` (para serialización de modelos)
+- `Toolbox` (verificar si es una librería externa o módulo personalizado)
 
 ## 📥 Instalación
 

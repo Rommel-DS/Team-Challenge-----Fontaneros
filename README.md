@@ -30,7 +30,7 @@ Este proyecto está basado en el uso de **pipelines**, lo que permite un procesa
 Ejecuta el notebook en un entorno de Jupyter Notebook para probar las diferentes opciones de procesamiento de datos y modelado:
 
 ```bash
-jupyter notebook Fontanero_v0_Pipelines_I_documentado.ipynb
+jupyter notebook Fontanero_Pipelines_I.ipynb
 ```
 
 Dentro del notebook, encontrarás implementaciones de **pipelines** para distintas tareas de machine learning, permitiendo una ejecución fluida desde la preparación de datos hasta la evaluación del modelo. 📊

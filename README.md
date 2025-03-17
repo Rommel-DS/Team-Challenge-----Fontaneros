@@ -47,4 +47,5 @@ Dentro del notebook, encontrarás implementaciones de **pipelines** para distint
 ├── utils/              # 🛠️ Funciones y herramientas auxiliares
 ├── README.md           # 📖 Documentación
 ├── .gitignore          # 🚫 Archivos y carpetas ignorados por Git
+├── requirements.txt    # 📜 Lista de dependencias del proyecto
 

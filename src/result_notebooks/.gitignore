@@ -1,0 +1,13 @@
+# Ignorar el entorno virtual
+fontaneros_entorno/
+
+# Archivos de Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Configuración de entornos virtuales en general
+venv/
+env/
+
+# Ignorar archivos de configuración de entorno
+.env
+.envrc

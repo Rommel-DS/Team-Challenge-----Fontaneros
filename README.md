@@ -23,15 +23,6 @@ Las siguientes dependencias son necesarias para ejecutar el proyecto:
 - `pickle` (para serialización de modelos)
 - `Toolbox`
 
-## 📥 Instalación
-
-Clona este repositorio y accede a la carpeta del proyecto:
-
-```bash
-git clone https://github.com/Rommel-DS/Team-Challenge-----Fontaneros.git
-cd Team-Challenge-----Fontaneros
-```
-
 ## ⚡ Uso
 
 Este proyecto está basado en el uso de **pipelines**, lo que permite un procesamiento estructurado y eficiente de los datos. Los **pipelines** facilitan la transformación, limpieza y modelado sin necesidad de pasos manuales intermedios. 🛠️
